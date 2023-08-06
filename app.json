@@ -5,7 +5,7 @@
   "env": {
     "UUID": {
       "description": "The default UUID is below, please set your own",
-      "value": "bae4c69e-3fe3-45d4-aaae-43dc34855efc",
+      "value": "981e55bb-57f8-44e2-a59c-b75202abb41f",
       "required": true
      },
     "V_PATH": {
